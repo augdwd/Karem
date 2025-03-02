@@ -112,6 +112,27 @@ audio{
     cursor: pointer;
    
 }
+@media  screen and (max-width:360px) {
+    .text2 p{
+    font-size: 95%; 
+    position: relative;
+    top: 80px;
+    }
+    .title{
+        font-size: 65%;
+    }
+    .text{
+        font-size: 85%;
+    }
+    .imge img{
+        width: 45%;
+    }
+    audio{
+        width: 80%;
+        position: relative;
+        top: 100px;
+    }
+}
 .icons i:hover{
     transform: scale(1.2);
 }
