@@ -121,13 +121,15 @@ audio{
     .text2 p{
     font-size: 80%; 
     position: relative;
-    top: 95px;
+    top: 110px;
     }
     .title{
         font-size: 65%;
     }
     .text{
         font-size: 85%;
+          position: relative;
+        top: 50px;
     }
     .imge img{
         width: 40%;
@@ -135,7 +137,7 @@ audio{
     audio{
         width: 80%;
         position: relative;
-        top: 120px;
+        top: 135px;
     }
 }
 
