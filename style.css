@@ -119,9 +119,9 @@ audio{
 }
 @media  screen and (max-width:360px) {
     .text2 p{
-    font-size: 85%; 
+    font-size: 80%; 
     position: relative;
-    top: 75px;
+    top: 95px;
     }
     .title{
         font-size: 65%;
@@ -135,7 +135,7 @@ audio{
     audio{
         width: 80%;
         position: relative;
-        top: 110px;
+        top: 120px;
     }
 }
 
