@@ -117,28 +117,7 @@ audio{
 .icons i:hover{
     transform: scale(1.2);
 }
-@media  screen and (max-width:360px) {
-    .text2 p{
-    font-size: 80%; 
-    position: relative;
-    top: 130px;
-    }
-    .title{
-        font-size: 60%;
-    }
-    .text{
-        font-size: 85%;
-          position: relative;
-        top: 50px;
-    }
-    .imge img{
-        width: 40%;
-    }
-    audio{
-        width: 80%;
-        position: relative;
-        top: 150px;
-    }
+
 }
 
 
